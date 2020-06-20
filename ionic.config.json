@@ -1,5 +1,7 @@
 {
   "name": "Khronos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

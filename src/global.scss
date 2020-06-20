@@ -45,8 +45,12 @@ ion-content{
     border: none;
 }
 
+.picker-opt-selected{
+    color: (224,145,242,1) !important;
+}
+
 .picker-opt{
-    color:white;
+    color:white !important; 
 }
 
 .picker-button.ion-activatable.sc-ion-picker-md{
